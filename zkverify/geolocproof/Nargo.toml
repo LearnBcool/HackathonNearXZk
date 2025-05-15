@@ -1,0 +1,6 @@
+[package]
+name = "geolocproof"
+type = "bin"
+authors = [""]
+
+[dependencies]
