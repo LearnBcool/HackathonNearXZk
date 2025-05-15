@@ -1,0 +1,6 @@
+[package]
+name = "zkverify"
+type = "bin"
+authors = [""]
+
+[dependencies]
